@@ -2,8 +2,7 @@
 
 This is my personal portfolio website showcasing my projects, skills, and work in AI/ML and Web Development.
 
-🔗 Live Website:
-https://shreya-tiwari-portfolio.netlify.app/
+🔗 Live Website: https://tiwarishreya05.github.io/Portfolio/
 
 📌 About
 
