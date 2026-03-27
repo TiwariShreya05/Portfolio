@@ -6,8 +6,7 @@ This is my personal portfolio website showcasing my projects, skills, and work i
 
 📌 About
 
-I’m a B.Tech student in Artificial Intelligence & Machine Learning at Manipal University Jaipur.
-I’m interested in building real-world projects in Machine Learning, Deep Learning, and UI/UX.
+This is my personal portfolio website showcasing my skills, projects, and experience as a B.Tech student in Artificial Intelligence & Machine Learning. The portfolio highlights my journey, technical expertise, and the projects I have built, with a focus on clean UI and responsive design.
 
 📬 Contact
 
