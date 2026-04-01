@@ -14,6 +14,7 @@ This is my personal portfolio website showcasing my skills, projects, and experi
 
 💼 LinkedIn: https://www.linkedin.com/in/shreya-tiwari-520b692b3/
 
+📧 Email: shreyatiwari0801@gmail.com
 ⭐
 
 Feel free to check out the portfolio and connect!
