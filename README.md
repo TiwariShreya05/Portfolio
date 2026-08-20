@@ -16,6 +16,4 @@ This is my personal portfolio website showcasing my skills, projects, and experi
 
 📧 Email: shreyatiwari0801@gmail.com
 
-⭐
-
 Feel free to check out the portfolio and connect!
